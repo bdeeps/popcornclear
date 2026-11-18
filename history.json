@@ -1,0 +1,767 @@
+{
+  "title": "The history of popcorn",
+  "tagline": "Nearly 9,000 years from a wild grass to a snack that explodes in a pan, and 400 years of people wondering why.",
+  "intro": "People in the Americas were popping corn thousands of years before anyone wrote about it. Machines, cinemas and microwaves made it a habit, and high-speed film in 2015 finally showed what happens in the few hundredths of a second when a kernel goes off.",
+  "eras": [
+    {
+      "id": "origins",
+      "name": "Corn that bursts",
+      "from": -7000,
+      "to": 1500,
+      "color": "#ffb547",
+      "summary": "Maize is domesticated in Mexico, and people in Peru are popping it by about 4700 BCE."
+    },
+    {
+      "id": "written",
+      "name": "Written down",
+      "from": 1500,
+      "to": 1850,
+      "color": "#c49bff",
+      "summary": "Aztec ceremonies and Spanish writers record the popped corn they saw in Mexico and Peru."
+    },
+    {
+      "id": "machines",
+      "name": "Steam, crowds and cinemas",
+      "from": 1850,
+      "to": 1950,
+      "color": "#8ef0ff",
+      "summary": "A Chicago inventor puts a popper on wheels, and popcorn follows the crowds to fairs and picture houses."
+    },
+    {
+      "id": "screens",
+      "name": "Screens and bags",
+      "from": 1945,
+      "to": 2000,
+      "color": "#f59ee6",
+      "summary": "Television, brands and the microwave move popcorn into the home."
+    },
+    {
+      "id": "digging",
+      "name": "Digging up the past",
+      "from": 1948,
+      "to": 2012,
+      "color": "#a3e635",
+      "summary": "Archaeologists find old cobs in caves and coastal mounds."
+    },
+    {
+      "id": "science",
+      "name": "Science and snacks",
+      "from": 2005,
+      "to": 2026,
+      "color": "#ff7a59",
+      "summary": "Food chemists and physicists study the hull, the pressure and the jump, while the snack stays popular."
+    }
+  ],
+  "events": [
+    {
+      "year": -7000,
+      "date": "c. 7000 BCE (nearly 9,000 years ago)",
+      "era": "origins",
+      "art": "leaf",
+      "key": true,
+      "title": "Early farmers domesticate maize",
+      "who": "Early farmers",
+      "where": "Balsas River valley, Mexico",
+      "country": "Mexico",
+      "text": "Wild grass called teosinte is bred into maize in the Balsas River valley of central Mexico. The Popcorn Board says it is believed that popping was the first thing people did with early corn.",
+      "why": "Every popcorn kernel descends from this plant.",
+      "box": "kernel",
+      "sources": [
+        4,
+        8
+      ]
+    },
+    {
+      "year": -4700,
+      "date": "c. 4700 BCE (about 6,700 years ago)",
+      "era": "origins",
+      "art": "mountain",
+      "key": true,
+      "title": "Oldest popcorn eaten in Peru",
+      "who": "Early coastal Andean people",
+      "where": "Paredones and Huaca Prieta, northern coast of Peru",
+      "country": "Peru",
+      "text": "Cobs, husks and stalks from these two coastal sites show people ate corn as popcorn and as flour. Radiocarbon dates reach back about 6,700 years. Corn was not yet a big part of the diet, and the find predates pottery in the region.",
+      "why": "It is the oldest popcorn on record, found far from where maize began.",
+      "box": "kernel",
+      "sources": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "year": 1500,
+      "date": "early 16th century",
+      "era": "written",
+      "art": "person",
+      "title": "Popcorn in Aztec ceremonies",
+      "who": "Aztec (Mexica) people",
+      "where": "Central Mexico",
+      "country": "Mexico",
+      "text": "Popcorn was part of Aztec ceremonies. It decorated headdresses, necklaces and statues of gods, including Tlaloc, god of rain and fertility. Young women danced in garlands of popcorn.",
+      "why": "Popcorn was a sacred food, not just a snack.",
+      "box": "kernel",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1519,
+      "date": "1519",
+      "era": "written",
+      "art": "scroll",
+      "title": "Cortés sees popcorn",
+      "who": "Hernán Cortés",
+      "where": "Mexico",
+      "country": "Mexico",
+      "text": "The Popcorn Board says Cortés first saw popcorn when he invaded Mexico and met the Aztecs in 1519.",
+      "why": "It is how many European writers first heard of it.",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1577,
+      "date": "1577",
+      "era": "written",
+      "art": "quill",
+      "key": true,
+      "title": "The Florentine Codex records Aztec life",
+      "who": "Bernardino de Sahagún and Nahua authors and artists",
+      "where": "Tlatelolco, Mexico City",
+      "country": "Mexico",
+      "text": "A Spanish friar and a team of Nahua scholars and painters finish a 12-book illustrated encyclopedia of Aztec life, in Nahuatl and Spanish. The Popcorn Board quotes Sahagún's account of a popcorn dance.",
+      "why": "Our best written picture of popcorn in Aztec life comes from this work and its Nahua authors.",
+      "sources": [
+        13,
+        0
+      ]
+    },
+    {
+      "year": 1650,
+      "date": "1650",
+      "era": "written",
+      "art": "scroll",
+      "title": "Cobo writes of Peruvian popped corn",
+      "who": "Bernabé Cobo",
+      "where": "Peru",
+      "country": "Peru",
+      "text": "The Spanish writer Cobo describes Peruvians toasting a kind of corn until it bursts. They called it pisancalla and ate it as a sweet.",
+      "why": "Popping was still a living tradition in the Andes.",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1850,
+      "date": "mid-1800s",
+      "era": "machines",
+      "art": "engine",
+      "title": "The plough spreads maize farming",
+      "who": "American farmers",
+      "where": "Midwest, United States",
+      "country": "United States",
+      "text": "The steel moldboard plough comes into common use and maize planting spreads across the United States.",
+      "why": "It prepared the farmland for a popcorn industry.",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1885,
+      "date": "2 December 1885",
+      "era": "machines",
+      "art": "engine",
+      "title": "Cretors sets up a steam-powered roaster",
+      "who": "Charles Cretors",
+      "where": "Chicago, Illinois",
+      "country": "United States",
+      "text": "Charles Cretors gets a peddler's licence and sets a steam-powered peanut roaster on the pavement outside his shop. This is the start of C. Cretors and Company.",
+      "why": "The steam-powered machine he built is the ancestor of the popcorn machine.",
+      "sources": [
+        7
+      ]
+    },
+    {
+      "year": 1890,
+      "date": "late 1800s",
+      "era": "machines",
+      "art": "flask",
+      "title": "Popcorn for breakfast",
+      "who": "Ella Eaton Kellogg and John Harvey Kellogg",
+      "where": "Battle Creek, Michigan",
+      "country": "United States",
+      "text": "In the late 1800s and early 1900s, popcorn was eaten like cereal, ground up with milk or cream. Ella Kellogg liked it that way, and John Harvey Kellogg praised it as a whole grain.",
+      "why": "Popcorn was once breakfast, long before the corn flake.",
+      "sources": [
+        0,
+        17
+      ]
+    },
+    {
+      "year": 1893,
+      "date": "1893",
+      "era": "machines",
+      "art": "engine",
+      "key": true,
+      "title": "The first modern popcorn machine",
+      "who": "Charles Cretors",
+      "where": "World's Columbian Exposition, Chicago",
+      "country": "United States",
+      "text": "Cretors adds a built-in popper to his peanut roaster and shows it at the World's Fair in Chicago. His company calls it the first modern popcorn machine. The Popcorn Board calls it the first mobile one. Street vendors soon wheel steam and gas poppers through fairs and parks.",
+      "why": "Popcorn moved out of kitchens and on to the street.",
+      "sources": [
+        7,
+        0,
+        8
+      ]
+    },
+    {
+      "year": 1897,
+      "date": "1897",
+      "era": "machines",
+      "art": "car",
+      "title": "First machine exported",
+      "who": "C. Cretors and Company",
+      "where": "Chicago to the Netherlands",
+      "country": "Netherlands",
+      "text": "The company sells its first export, a popcorn wagon, to the Netherlands for $400.",
+      "why": "The idea spread beyond America.",
+      "sources": [
+        7
+      ]
+    },
+    {
+      "year": 1909,
+      "date": "1909",
+      "era": "machines",
+      "art": "car",
+      "title": "A wagon with its own engine",
+      "who": "C. Cretors and Company",
+      "where": "Chicago, Illinois",
+      "country": "United States",
+      "text": "Cretors introduces the first self-propelled popcorn wagon, driven by a petrol engine. The company calls it the first mobile concession stand.",
+      "why": "The popcorn stand now travelled by itself.",
+      "sources": [
+        7
+      ]
+    },
+    {
+      "year": 1927,
+      "date": "late 1920s",
+      "era": "machines",
+      "art": "cinema",
+      "title": "Popcorn goes to the movies",
+      "who": "Cinema owners and street vendors",
+      "where": "United States",
+      "country": "United States",
+      "text": "Talking pictures make cinemas a fixture. At first many owners refuse to sell popcorn because it is messy, so vendors sell it outside. Cinemas that held out lost business, and popcorn machines moved into the lobby.",
+      "why": "The cinema became popcorn's best home.",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1930,
+      "date": "1930s",
+      "era": "machines",
+      "art": "building",
+      "key": true,
+      "title": "Popcorn thrives in the Great Depression",
+      "who": "Popcorn sellers",
+      "where": "United States",
+      "country": "United States",
+      "text": "At 5 or 10 cents a bag, popcorn is one of the few treats poor families can afford. Sales rise while many other businesses fail.",
+      "why": "Cheap and cheerful, popcorn became a habit.",
+      "sources": [
+        0,
+        8
+      ]
+    },
+    {
+      "year": 1942,
+      "date": "1940s",
+      "era": "machines",
+      "art": "building",
+      "title": "Sugar shortage, popcorn boom",
+      "who": "American households",
+      "where": "United States",
+      "country": "United States",
+      "text": "In the Second World War, sugar is sent overseas to troops, so there is less candy. Americans eat about three times as much popcorn as usual.",
+      "why": "Wartime shortages made it a national snack.",
+      "sources": [
+        0,
+        8
+      ]
+    },
+    {
+      "year": 1945,
+      "date": "8 October 1945",
+      "era": "screens",
+      "art": "magnetron",
+      "key": true,
+      "title": "Spencer files a patent for microwave cooking",
+      "who": "Percy Spencer",
+      "where": "Raytheon, Massachusetts",
+      "country": "United States",
+      "text": "Percy Spencer of Raytheon, who helped mass-produce magnetrons for radar, files a patent for cooking food with microwave energy. Popcorn is said to have been among his first test foods, though that part of the story is told as legend.",
+      "why": "It led to the microwave oven, and later to microwave popcorn.",
+      "box": "shapes",
+      "sources": [
+        10,
+        9,
+        0
+      ]
+    },
+    {
+      "year": 1947,
+      "date": "1947",
+      "era": "screens",
+      "art": "microwave",
+      "title": "The first commercial microwave ovens",
+      "who": "Raytheon",
+      "where": "Massachusetts",
+      "country": "United States",
+      "text": "The first commercial microwave ovens stand about six feet tall, weigh around 750 pounds and cost about $5,000.",
+      "why": "Microwave cooking began as an industrial machine.",
+      "box": "shapes",
+      "sources": [
+        9
+      ]
+    },
+    {
+      "year": 1948,
+      "date": "1948 and 1950",
+      "era": "digging",
+      "art": "scroll",
+      "title": "Popcorn ears found in Bat Cave",
+      "who": "Herbert W. Dick and Claude Earle Smith Jr.",
+      "where": "Bat Cave, Catron County, New Mexico",
+      "country": "United States",
+      "text": "Digs in a cave in west-central New Mexico turned up small ears of popcorn, from smaller than a penny to about two inches long. The Popcorn Board gives their age as about 4,000 years. Other sources give earlier or different dates, so the age is not settled.",
+      "why": "It was long cited as the oldest popcorn, until the Peru finds.",
+      "sources": [
+        0,
+        8
+      ]
+    },
+    {
+      "year": 1950,
+      "date": "early 1950s",
+      "era": "screens",
+      "art": "tv",
+      "title": "Television cuts into popcorn",
+      "who": "Television viewers",
+      "where": "United States",
+      "country": "United States",
+      "text": "As television spreads, cinema visits fall, and popcorn sales fall with them. People then start to eat it at home in front of the TV, and sales recover.",
+      "why": "The snack followed the screen from the cinema into the living room.",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1965,
+      "date": "1965",
+      "era": "screens",
+      "art": "flask",
+      "title": "The RedBow hybrid",
+      "who": "Orville Redenbacher, Charles Bowman and Carl Hartman",
+      "where": "Indiana",
+      "country": "United States",
+      "text": "After years of cross-pollinating, three popcorn enthusiasts develop a hybrid that gives lighter, fluffier popcorn with few unpopped kernels. They sell it as RedBow.",
+      "why": "Breeding, not just cooking, could cut the old maids.",
+      "box": "maids",
+      "sources": [
+        11
+      ]
+    },
+    {
+      "year": 1967,
+      "date": "1967",
+      "era": "screens",
+      "art": "microwave",
+      "title": "A counter-top microwave for $495",
+      "who": "Amana, a Raytheon division",
+      "where": "United States",
+      "country": "United States",
+      "text": "A smaller counter-top Radarange goes on sale for about $495.",
+      "why": "Ovens finally became cheap enough for kitchens.",
+      "box": "shapes",
+      "sources": [
+        9
+      ]
+    },
+    {
+      "year": 1970,
+      "date": "1970",
+      "era": "screens",
+      "art": "trophy",
+      "key": true,
+      "title": "Orville Redenbacher's Gourmet Popping Corn",
+      "who": "Orville Redenbacher and Charles Bowman",
+      "where": "Indiana",
+      "country": "United States",
+      "text": "The partners rename RedBow after Redenbacher and start selling gourmet popping corn. Both men were Purdue graduates who had gone into the seed business together.",
+      "why": "A breeder's hybrid became a household brand.",
+      "box": "maids",
+      "sources": [
+        12,
+        11
+      ]
+    },
+    {
+      "year": 1976,
+      "date": "1976",
+      "era": "screens",
+      "art": "building",
+      "title": "The brand goes national",
+      "who": "Orville Redenbacher and Hunt-Wesson",
+      "where": "United States",
+      "country": "United States",
+      "text": "Redenbacher and Bowman turn their popcorn over to the food company Hunt-Wesson. Redenbacher becomes its spokesperson.",
+      "why": "Advertising made popcorn a brand.",
+      "sources": [
+        11
+      ]
+    },
+    {
+      "year": 1981,
+      "date": "early 1980s",
+      "era": "screens",
+      "art": "microwave",
+      "title": "Microwave popcorn arrives",
+      "who": "Food companies",
+      "where": "United States",
+      "country": "United States",
+      "text": "Microwave popcorn bags appear in the early 1980s, and home popcorn eating rises over the following years. Most microwave ovens now have a popcorn button.",
+      "why": "Popcorn became a one-minute snack.",
+      "box": "shapes",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1983,
+      "date": "1983",
+      "era": "screens",
+      "art": "cell",
+      "title": "McClintock wins the Nobel Prize for work on maize",
+      "who": "Barbara McClintock",
+      "where": "Cold Spring Harbor, New York",
+      "country": "United States",
+      "text": "Barbara McClintock studied maize chromosomes and kernel colours. In the 1940s and 1950s she proved that genetic elements can change position on a chromosome. She won the 1983 Nobel Prize in Physiology or Medicine.",
+      "why": "Our deepest knowledge of the maize genome began with her.",
+      "sources": [
+        14
+      ]
+    },
+    {
+      "year": 2005,
+      "date": "2005",
+      "era": "science",
+      "art": "thermometer",
+      "title": "Why the hull decides whether a kernel pops",
+      "who": "Bruce Hamaker and colleagues, Purdue University",
+      "where": "West Lafayette, Indiana",
+      "country": "United States",
+      "text": "Purdue researchers compare 14 yellow popcorn varieties and find that from 4 to 47 percent of kernels stay unpopped. They say the hull's cellulose structure decides how well it holds moisture in, like a pressure cooker.",
+      "why": "It pointed to a leaky hull as the cause of old maids.",
+      "box": "maids",
+      "sources": [
+        15,
+        16
+      ]
+    },
+    {
+      "year": 2012,
+      "date": "January 2012",
+      "era": "digging",
+      "art": "mountain",
+      "title": "Peru popcorn study published",
+      "who": "Alex Grobman, Duccio Bonavia, Tom Dillehay, Dolores Piperno and colleagues",
+      "where": "Peru",
+      "country": "Peru",
+      "text": "A team reports in the journal PNAS on corn remains from Paredones and Huaca Prieta that reach back about 6,700 years, and shows that people ate popcorn there.",
+      "why": "It pushed the story of popcorn back by about two thousand years.",
+      "box": "kernel",
+      "sources": [
+        4,
+        5
+      ]
+    },
+    {
+      "year": 2015,
+      "date": "2015",
+      "era": "science",
+      "art": "flask",
+      "key": true,
+      "title": "Virot and Ponomarenko explain the pop",
+      "who": "Emmanuel Virot and Alexandre Ponomarenko",
+      "where": "École Polytechnique, France",
+      "country": "France",
+      "text": "Two physicists film kernels at about 2,900 frames per second. They find a critical temperature near 180 °C and a pressure near 10 bar, and show that the jump is driven by a leg of starch pushing on the surface. They suggest the pop sound comes from vapour release, and say this is consistent with their data but not proven.",
+      "why": "It put numbers and film on a mystery as old as popcorn.",
+      "box": "burst",
+      "sources": [
+        2,
+        3
+      ]
+    },
+    {
+      "year": 2016,
+      "date": "18 June 2016",
+      "era": "science",
+      "art": "trophy",
+      "title": "A popcorn ball that weighed 9,370 pounds",
+      "who": "Hundreds of volunteers",
+      "where": "Sac City, Iowa",
+      "country": "United States",
+      "text": "Volunteers at the Noble Popcorn plant build a popcorn ball almost 12 feet across, to win back the title of world's largest. It weighs 9,370 pounds, with almost five tons of popcorn in it.",
+      "why": "A sign that the snack is still loved in the corn belt.",
+      "sources": [
+        1
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Oldest known popcorn",
+      "value": "about 6,700 years",
+      "who": "Paredones and Huaca Prieta, Peru"
+    },
+    {
+      "label": "First modern popcorn machine (company's account)",
+      "value": "1893",
+      "who": "Charles Cretors, Chicago"
+    },
+    {
+      "label": "Microwave cooking patent application",
+      "value": "8 October 1945",
+      "who": "Percy Spencer, Raytheon"
+    },
+    {
+      "label": "Popcorn brand named after a breeder",
+      "value": "1970",
+      "who": "Orville Redenbacher, Indiana"
+    }
+  ],
+  "people": [
+    {
+      "name": "Charles Cretors",
+      "life": "",
+      "role": "Inventor and founder of C. Cretors and Company",
+      "from": "United States",
+      "note": "An Ohio-born craftsman who moved to Chicago in the 1880s and built the first modern popcorn machine."
+    },
+    {
+      "name": "Percy Spencer",
+      "life": "1894 – 1970",
+      "role": "Engineer at Raytheon",
+      "from": "United States",
+      "note": "Helped mass-produce radar magnetrons and filed the 1945 patent for microwave cooking."
+    },
+    {
+      "name": "Orville Redenbacher",
+      "life": "1907 – 1995",
+      "role": "Agronomist and businessman",
+      "from": "United States",
+      "note": "Bred a hybrid popcorn and put his own name on it."
+    },
+    {
+      "name": "Barbara McClintock",
+      "life": "1902 – 1992",
+      "role": "Maize geneticist",
+      "from": "United States",
+      "note": "Showed that genes can move on a chromosome, work that won her the 1983 Nobel Prize."
+    },
+    {
+      "name": "Ella Eaton Kellogg",
+      "life": "1853 – 1920",
+      "role": "Dietitian and author",
+      "from": "United States",
+      "note": "Ate popcorn ground with milk as a breakfast food and urged others to eat it at meals."
+    },
+    {
+      "name": "Dolores Piperno",
+      "life": "",
+      "role": "Archaeobotanist at the Smithsonian",
+      "from": "United States",
+      "note": "Co-author of the study of the Peruvian popcorn, and a leading voice on when and where maize was domesticated."
+    },
+    {
+      "name": "Antonio Valeriano",
+      "life": "",
+      "role": "Nahua scholar and author",
+      "from": "Mexico",
+      "note": "One of the Nahua authors named by the Getty as helping to create the Florentine Codex."
+    },
+    {
+      "name": "Bernardino de Sahagún",
+      "life": "",
+      "role": "Spanish Franciscan friar",
+      "from": "Spain, working in Mexico",
+      "note": "Led the team that compiled the Florentine Codex over thirty years."
+    },
+    {
+      "name": "Emmanuel Virot",
+      "life": "",
+      "role": "Physicist, École Polytechnique",
+      "from": "France",
+      "note": "Co-author of the 2015 study of why popcorn jumps and pops."
+    },
+    {
+      "name": "Alexandre Ponomarenko",
+      "life": "",
+      "role": "Physicist, CNRS, Grenoble",
+      "from": "France",
+      "note": "Co-author of the 2015 study of why popcorn jumps and pops."
+    }
+  ],
+  "series": [
+    {
+      "id": "age",
+      "title": "Age of the oldest evidence found",
+      "unit": "years old",
+      "log": false,
+      "after": "origins",
+      "caption": "Each newly reported find pushed the story back. The 9,000-year point is for maize itself, not popcorn.",
+      "points": [
+        {
+          "year": 1950,
+          "value": 4000,
+          "label": "Bat Cave, New Mexico: popcorn ears about 4,000 years old"
+        },
+        {
+          "year": 2009,
+          "value": 9000,
+          "label": "Maize domesticated in Mexico, nearly 9,000 years ago (not popcorn)"
+        },
+        {
+          "year": 2012,
+          "value": 6700,
+          "label": "Peru: popcorn about 6,700 years old"
+        }
+      ]
+    },
+    {
+      "id": "oven",
+      "title": "Price of a microwave oven",
+      "unit": "US dollars",
+      "log": true,
+      "after": "screens",
+      "caption": "Counter-top ovens became about ten times cheaper in twenty years.",
+      "points": [
+        {
+          "year": 1947,
+          "value": 5000,
+          "label": "First commercial oven: about $5,000"
+        },
+        {
+          "year": 1967,
+          "value": 495,
+          "label": "Counter-top Radarange: about $495"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "Popcorn is the only one of the main kinds of corn that pops. Its scientific name is Zea mays everta.",
+    "Kernels from burial grounds in northern Chile, about 1,000 years old, were still able to pop.",
+    "Popcorn needs about 13.5 to 14 percent moisture to pop well.",
+    "Popcorn is a whole grain, and Americans eat about 14 billion quarts of it a year (average of 2016 to 2020 sales)."
+  ],
+  "sources": [
+    {
+      "title": "History of Popcorn",
+      "publisher": "The Popcorn Board",
+      "url": "https://www.popcorn.org/All-About-Popcorn/History-of-Popcorn"
+    },
+    {
+      "title": "Corny Facts",
+      "publisher": "The Popcorn Board",
+      "url": "https://www.popcorn.org/All-About-Popcorn/Corny-Facts"
+    },
+    {
+      "title": "Popcorn: critical temperature, jump and sound (Virot and Ponomarenko), J. R. Soc. Interface 12(104):20141247, doi:10.1098/rsif.2014.1247",
+      "publisher": "Journal of the Royal Society Interface, via PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4345489"
+    },
+    {
+      "title": "Mystery SOLVED: How Popcorn Pops",
+      "publisher": "ScienceAlert",
+      "url": "https://www.sciencealert.com/mystery-solved-how-popcorn-pops"
+    },
+    {
+      "title": "Ancient Popcorn Discovered in Peru",
+      "publisher": "Smithsonian Science",
+      "url": "https://smithsonianscience.org/2012/01/ancient-popcorn-discovered-in-peru/"
+    },
+    {
+      "title": "Popcorn Was Popular in Ancient Peru, Discovery Suggests",
+      "publisher": "HISTORY (History.com)",
+      "url": "https://www.history.com/news/popcorn-was-popular-in-ancient-peru-discovery-suggests"
+    },
+    {
+      "title": "Earliest popcorn",
+      "publisher": "Guinness World Records",
+      "url": "https://www.guinnessworldrecords.com/world-records/630494-earliest-popcorn"
+    },
+    {
+      "title": "Our history (An Age of Invention)",
+      "publisher": "C. Cretors and Company",
+      "url": "https://www.cretors.com/an-age-of-invention"
+    },
+    {
+      "title": "Popcorn",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Popcorn"
+    },
+    {
+      "title": "Percy Spencer",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Percy_Spencer"
+    },
+    {
+      "title": "US2495429A: Method of treating foodstuffs (Percy L. Spencer, filed 8 October 1945)",
+      "publisher": "Google Patents (US Patent Office record)",
+      "url": "https://patents.google.com/patent/US2495429A/en"
+    },
+    {
+      "title": "Redenbacher, Orville",
+      "publisher": "Encyclopedia.com (Gale)",
+      "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/redenbacher-orville"
+    },
+    {
+      "title": "Boilermakers have changed the way the world eats",
+      "publisher": "Purdue University",
+      "url": "https://stories.purdue.edu/boilermakers-have-changed-the-way-the-world-eats"
+    },
+    {
+      "title": "Competing Narratives on the Conquest of Mexico and the Fall of the Aztec Empire",
+      "publisher": "Getty Research Institute (Getty News)",
+      "url": "https://www.getty.edu/news/competing-narratives-about-the-conquest-of-mexico-and-the-fall-of-the-aztec-empire"
+    },
+    {
+      "title": "Barbara McClintock: Facts",
+      "publisher": "NobelPrize.org (Nobel Prize Outreach)",
+      "url": "https://www.nobelprize.org/prizes/medicine/1983/mcclintock/facts/"
+    },
+    {
+      "title": "Scientists Discover the Secret of Popcorn's Popability",
+      "publisher": "Live Science",
+      "url": "https://www.livescience.com/6979-scientists-discover-secret-popcorn-popability.html"
+    },
+    {
+      "title": "Scientists uncover secret behind unpoppable popcorn",
+      "publisher": "FoodNavigator",
+      "url": "https://www.foodnavigator.com/Article/2005/04/15/Scientists-uncover-secret-behind-unpoppable-popcorn/"
+    },
+    {
+      "title": "Ella Eaton Kellogg",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ella_Eaton_Kellogg"
+    }
+  ]
+}

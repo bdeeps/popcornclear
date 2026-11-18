@@ -1,0 +1,110 @@
+{
+  "slug": "popcornclear",
+  "box": 241,
+  "date": "2026-12-08",
+  "title": "PopcornClear",
+  "question": "How does popcorn pop?",
+  "hook": "A popcorn kernel is a sealed pressure vessel. Heat it to about 180 °C and the water inside reaches around 10 atmospheres, the hull gives way, and the starch foams out in a few thousandths of a second. See inside one, watch it burst in slow motion, and find out why some never pop.",
+  "thumbText": "HOW POPCORN POPS",
+  "field": "chemistry",
+  "minutes": 13,
+  "tags": [
+    "popcorn",
+    "popping",
+    "pressure",
+    "steam",
+    "starch",
+    "maize",
+    "microwave",
+    "chemistry",
+    "food science",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A sealed capsule",
+      "text": "A popcorn kernel has a thick, tightly packed hull, a store of starch and a small germ. It holds about 13.5 to 14 percent water, which is only around 20 milligrams. Other types of corn have a hull too, but only popcorn (Zea mays everta) holds it tightly enough to pop."
+    },
+    {
+      "title": "Water that cannot boil",
+      "text": "As the kernel heats, the water inside cannot boil away, so it stays liquid well above 100 °C while the pressure of its steam climbs. At 150 °C it is about 4.7 atmospheres. At 180 °C it is about 10."
+    },
+    {
+      "title": "The hull gives way",
+      "text": "Treat the hull as a thin balloon, about 0.16 mm thick with a strength near 10 megapascals. It fails at about 10 atmospheres, which is steam at about 180 °C. Careful measurements by Virot and Ponomarenko in 2015 agree, though every kernel pops at a slightly different temperature."
+    },
+    {
+      "title": "Foam, leg and pop",
+      "text": "When the hull cracks the pressure collapses, and the hot starch foams out and then sets as it cools. In slow-motion film, a leg of starch pushes against the surface and launches the kernel. The pop sound probably comes from water vapour being released, and it comes before the jump. The authors say this fits their data but is not proven."
+    },
+    {
+      "title": "Old maids",
+      "text": "Kernels that are too dry make too little steam. Kernels with a cracked or leaky hull let the steam out as fast as it forms. Either way the pressure never reaches the pop point, and the kernel stays an old maid. Too wet is no good either: the popcorn is small and chewy."
+    },
+    {
+      "title": "Butterflies, mushrooms and microwaves",
+      "text": "Popcorn pops into two main shapes, light butterfly flakes and round mushroom flakes. A microwave heats the water inside the kernel throughout, while a pan heats from the hull inwards. In a pan the pops come in a burst, because every kernel has its own pop temperature."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Hull (pericarp)",
+      "def": "The kernel's outer skin, made mostly of cellulose. In popcorn it is thick and tightly packed."
+    },
+    {
+      "term": "Endosperm",
+      "def": "The starchy store inside the hull. It turns into the white flake when the kernel pops."
+    },
+    {
+      "term": "Zea mays everta",
+      "def": "The type of maize that pops. Sweet corn and field corn will not."
+    },
+    {
+      "term": "Vapour pressure",
+      "def": "The pressure of steam in balance with liquid water. It rises very steeply with temperature."
+    },
+    {
+      "term": "Superheated water",
+      "def": "Liquid water held above 100 °C because pressure stops it boiling."
+    },
+    {
+      "term": "Critical temperature",
+      "def": "The temperature at which a kernel's hull can no longer hold its steam. About 180 °C, with a spread from kernel to kernel."
+    },
+    {
+      "term": "Gelatinisation",
+      "def": "Starch grains swell in hot water and turn into a soft gel, ready to foam when the pressure drops."
+    },
+    {
+      "term": "Old maid",
+      "def": "A kernel that does not pop, usually because it is too dry or its hull leaks."
+    },
+    {
+      "term": "Butterfly and mushroom",
+      "def": "The two main shapes of popped corn: irregular and winged, or round and knobbly."
+    },
+    {
+      "term": "Popability",
+      "def": "The share of kernels in a batch that pop."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "popcornclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
